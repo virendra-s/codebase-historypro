@@ -1,2 +1,2 @@
 # codebase-historypro
-virendra-s developed wp codebase of historypro
+virendra-s developed wp plugins
