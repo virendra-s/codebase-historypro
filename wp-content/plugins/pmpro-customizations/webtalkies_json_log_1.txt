@@ -1,9 +1,0 @@
-Array
-(
-    [cuid] => 4@187230E8C7
-    [status] => completed
-    [key-matched] => NO
-    [wt-error] => Mac/Hash/Key Mismatch
-    [message] => Order was not be updated in Database.
-    [Timestamp] => 2017-06-04 01:26:30
-)
